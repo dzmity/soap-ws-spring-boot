@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="soap-ws-admin" />
+        <module name="soap-ws-admin-client" />
+        <module name="soap-ws-dao" />
+        <module name="soap-ws-impl" />
+        <module name="soap-ws-xsd" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="soap-ws-admin" target="1.8" />
+      <module name="soap-ws-admin-client" target="1.8" />
+      <module name="soap-ws-dao" target="1.8" />
+      <module name="soap-ws-impl" target="1.8" />
+      <module name="soap-ws-spring-boot" target="1.5" />
+      <module name="soap-ws-xsd" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

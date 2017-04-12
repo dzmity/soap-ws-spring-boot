@@ -1,0 +1,3 @@
+spring.boot.admin.url : http://localhost:8088
+spring.boot.admin.username : crmuser
+spring.boot.admin.password : crmuser

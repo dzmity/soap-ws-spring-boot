@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/soap-ws-admin-client/soap-ws-admin-client.iml" filepath="$PROJECT_DIR$/soap-ws-admin-client/soap-ws-admin-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soap-ws-dao/soap-ws-dao.iml" filepath="$PROJECT_DIR$/soap-ws-dao/soap-ws-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soap-ws-impl/soap-ws-impl.iml" filepath="$PROJECT_DIR$/soap-ws-impl/soap-ws-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soap-ws-spring-boot.iml" filepath="$PROJECT_DIR$/soap-ws-spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soap-ws-xsd/soap-ws-xsd.iml" filepath="$PROJECT_DIR$/soap-ws-xsd/soap-ws-xsd.iml" />
+    </modules>
+  </component>
+</project>
